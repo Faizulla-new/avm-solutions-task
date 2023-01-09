@@ -1,0 +1,25 @@
+.back{
+  background: #ececec;
+  border: none;
+  width: 250px;
+  border-radius: 15px;
+}
+.circle{
+  background: #6dd0a5;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  /* text-align: center; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.numb{
+  font-size: calc(2.375rem + 1.5vw);
+  font-weight: 700;
+  color: white;
+}
+.count{
+  color: #999999;
+  font-weight: 700;
+}
